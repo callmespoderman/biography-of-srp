@@ -1,0 +1,6 @@
+{
+  "name": "The Biography of a Place I Belong - Serampore",
+  "description": "An interactive presentation with smooth morph transitions showcasing Serampore, West Bengal—its Danish colonial history, historic college, Mahesh Rath Yatra, and tranquil river ghats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
